@@ -1,0 +1,29 @@
+footer {
+  /*always at bottom*/
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 30px;
+  background-color: white;
+  font-size: small;
+}
+
+body {
+  padding-bottom: 30px;
+}
+
+.card-subtitle {
+  font-style: italic;
+}
+
+.card {
+  margin-bottom: 2vh;
+}
+
+.bulletPoint {
+  font-weight: bold;
+}
+
+.warning {
+  color: red;
+}
